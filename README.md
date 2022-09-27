@@ -1,2 +1,2 @@
 # PointerTest
-I'm just having fun with pointers, it's very cool... I guess?
+Ye, I haven't posted in a while so I'm posting a dumb project I made in 2h while testing pointers.
