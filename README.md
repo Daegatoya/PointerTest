@@ -3,7 +3,7 @@ Ye, I haven't posted in a while so I'm posting a dumb project I made in 2h while
 
 ---
 
-**With love, Elizabeth** ❤️
+**With love, Daegatoya** ❤️
          
 <p align="center">
 
